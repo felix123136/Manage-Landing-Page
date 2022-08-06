@@ -1,5 +1,5 @@
 # Manage-Landing-Page
-Challenge from <a href="https://www.frontendmentor.io/home">Frontend Mentor</a>
+Challenge from <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> <br>
 Link for live website: https://tailwind-manage-app.netlify.app/
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/71205609/183234208-74d55fc7-fae3-4335-bf41-1bf550eceebb.png">
